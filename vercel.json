@@ -1,0 +1,11 @@
+{
+  "name": "Fluntagrameh Privacy Policy",
+  "version": 2,
+  "buildCommand": "echo 'Static site - no build needed'",
+  "public": true,
+  "env": [],
+  "regions": ["cdg1"],
+  "functions": {},
+  "cleanUrls": true,
+  "trailingSlash": false
+}
